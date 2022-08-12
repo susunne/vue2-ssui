@@ -1,24 +1,9 @@
-# ss-ui
+# ss-ui 🔮
 
-## Project setup
-```
-npm install
-```
+此项目仅作为 vue 组件封装的练习参考
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+👉 按钮 button
 
-### Compiles and minifies for production
-```
-npm run build
-```
+👉 对话框 dialog
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+👉 步骤条 step & process
